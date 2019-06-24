@@ -1,2 +1,2 @@
 # hello-world
-my first repo
+I have no ideas for pet projects
